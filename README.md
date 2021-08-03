@@ -27,7 +27,7 @@ git clone https://github.com/Fathursyafeei/niagahoster-clone.git
 
 * Download docker ke : https://docs.docker.com/get-docker/
 * Buka cmd lalu masuk ke lokasi repo yang di clone
-* Balankan perintah dibawah ini
+* Jalankan perintah dibawah ini
 ```
 docker compose up -d
 ```
