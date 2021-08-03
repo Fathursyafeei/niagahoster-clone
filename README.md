@@ -11,14 +11,14 @@ Project untuk membuat clone landing page Niagahoster.
 
 * Bootstrap: v5.0 (https://getbootstrap.com/)
 * php:v8.0-apache (https://hub.docker.com/_/php)
-* mysql:v8.0 (https://hub.docker.com/layers/mysql/library/mysql/8.0)
-* phpmyadmin (https://hub.docker.com/_/phpmyadmin)
+* MySQL:v8.0 (https://hub.docker.com/layers/mysql/library/mysql/8.0)
+* phpMyAdmin (https://hub.docker.com/_/phpmyadmin)
 * docker-compose: v3.8 (https://docs.docker.com/compose/compose-file/)
 * fathursyafeei/niagahoster (https://hub.docker.com/repository/docker/fathursyafeei/niagahoster)
 
 ### Installing
 
-* clone repo
+* Clone repo
 ```
 git clone https://github.com/Fathursyafeei/niagahoster-clone.git
 ```
