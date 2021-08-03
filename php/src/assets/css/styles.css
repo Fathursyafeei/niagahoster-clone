@@ -1,0 +1,434 @@
+body {
+	color: #4c4c4c;
+}
+
+/* Top Content */
+#topContent {
+	font-family: "Roboto", sans-serif;
+	/* font-family: 'Montserrat', sans-serif; */
+	font-weight: 400;
+	font-size: 15px;
+}
+
+#top-text {
+	font-size: 12px;
+}
+
+.rightCol-topText {
+	font-size: 12px;
+}
+
+/* Navbar */
+nav {
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
+
+.nav-link {
+	color: #4c4c4c;
+}
+
+.nav-link:hover {
+	color: #4c4c4c;
+}
+
+.text-montserrat {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 400;
+}
+
+.text-roboto {
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
+
+/* Jumbotron */
+.h1-jumbotron {
+	font-size: 24px;
+}
+
+.h3-jumbotron {
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.p-jumbotron {
+	font-size: 14px;
+}
+
+/* Paket Card */
+.h2-paketCard {
+	font-size: 24px;
+}
+
+.p-paketCard {
+	font-size: 18px;
+}
+
+/* Card */
+.card {
+	overflow: hidden;
+	position: relative;
+	color: #4c4c4c;
+}
+.table {
+	color: #4c4c4c;
+}
+.card .ribbon {
+	width: 132px;
+	height: 32px;
+	font-size: 12px;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	box-shadow: 0px 2px 3px rgba(22, 22, 22, 0.8);
+	background: #00b359;
+	transform: rotate(-45deg);
+	position: absolute;
+	left: -30px;
+	top: 20px;
+	padding-top: 7px;
+}
+.table .btn-primary {
+	border-radius: 20px;
+	background-color: #008fee;
+	border: 0;
+}
+.table .btn-primary:hover {
+	border: 1px solid #fff;
+	font-weight: 700;
+}
+
+/* Fitur Hosting */
+.fitur-hosting {
+	font-size: 14px;
+}
+
+/* Framework Laravel */
+.p-laravel {
+	font-size: 14px;
+}
+
+/* Modul Lengkap */
+.p-modul {
+	font-size: 14px;
+}
+
+/* Support Image */
+.p-supportImage {
+	font-size: 14px;
+}
+
+/* Section Likes */
+.p-likes {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+/* Section Help */
+.p-help {
+	font-size: 20px;
+}
+
+/* Content */
+.judul-fitur {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 800;
+}
+
+/* Footer */
+#footer {
+	font-size: 12px;
+}
+
+.footer-lineHeight {
+	line-height: 1rem;
+}
+
+.footer-bottom {
+	font-size: 10px;
+}
+
+.btn-pilihHosting {
+	background-color: #0090ef;
+	color: white;
+	border-radius: 25px;
+	padding: 12px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.btn-pilihHosting:hover {
+	color: white;
+}
+
+.btn-selengkapnya {
+	background-color: white;
+	color: #4c4c4c;
+	border: 2px solid;
+	border-radius: 25px;
+	padding: 12px 40px;
+	font-weight: 800;
+	font-size: 13px;
+}
+
+.btn-liveChat {
+	color: white;
+	background-color: #00a2f3;
+	padding: 10px 20px;
+	border: 2px solid;
+	border-radius: 25px;
+	border-color: white;
+	font-size: 13px;
+}
+
+.btn-liveChat:hover {
+	color: white;
+}
+
+.fb-footer {
+	color: white;
+	background-color: #303030;
+	padding: 15px 20px;
+	border: 2px solid;
+	border-color: white;
+	border-radius: 30px;
+}
+
+.twitter-footer {
+	color: white;
+	background-color: #303030;
+	padding: 15px;
+	border: 2px solid;
+	border-color: white;
+	border-radius: 30px;
+}
+
+.gplus-footer {
+	color: white;
+	background-color: #303030;
+	padding: 15px 13px;
+	border: 2px solid;
+	border-color: white;
+	border-radius: 30px;
+}
+
+/* input footer */
+.input_email {
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+
+.input_email .btn-primary {
+	position: absolute;
+	pointer-events: none;
+}
+.right .btn-primary {
+	right: 0;
+	background: #0090ef;
+	color: white;
+	border-radius: 20px;
+	font-size: 1em;
+}
+
+.input_email .form-control {
+	border-radius: 20px;
+	padding: 10px;
+	font-size: 1em;
+}
+
+input:focus {
+	outline: none;
+}
+
+@media (max-width: 767.98px) {
+	.input_email {
+		display: flex;
+		flex-direction: column;
+	}
+	.input_email .btn-primary {
+		display: flex;
+		position: unset;
+		align-items: flex-end;
+		margin-top: 10px;
+	}
+}
+
+/* Mid Devices */
+@media (min-width: 576px) and (max-width: 991px) {
+	/* Top */
+	.rightCol-topText {
+		font-size: 13px;
+	}
+
+	/* Jumbotron */
+	.h1-jumbotron {
+		font-size: 32px;
+	}
+
+	.h3-jumbotron {
+		font-size: 26px;
+		font-weight: 400;
+	}
+
+	.p-jumbotron {
+		font-size: 14px;
+	}
+
+	/* Button */
+	.btn-pilihHosting {
+		font-size: 15px;
+	}
+
+	.btn-selengkapnya {
+		font-size: 15px;
+	}
+
+	.btn-liveChat {
+		font-size: 15px;
+	}
+
+	/* Paket Card */
+	.h2-paketCard {
+		font-size: 30px;
+	}
+
+	.p-paketCard {
+		font-size: 24px;
+	}
+
+	/* Fitur Hosting */
+	.fitur-hosting {
+		font-size: 15px;
+	}
+
+	/* Framework Laravel */
+	.p-laravel {
+		font-size: 15px;
+	}
+
+	/* Modul Lengkap */
+	.p-modul {
+		font-size: 15px;
+	}
+
+	/* Support Image */
+	.p-supportImage {
+		font-size: 15px;
+	}
+
+	/* Section Likes */
+	.p-likes {
+		font-size: 15px;
+	}
+
+	/* Section Help */
+	.p-help {
+		font-size: 23px;
+	}
+
+	/* Footer */
+	#footer {
+		font-size: 14px;
+	}
+
+	.footer-lineHeight {
+		line-height: 1rem;
+	}
+
+	.footer-bottom {
+		font-size: 11px;
+	}
+}
+
+/* Only Desktop */
+@media (min-width: 992px) {
+	/* Top */
+	.rightCol-topText {
+		font-size: 14px;
+	}
+
+	/* Jumbotron */
+	.h1-jumbotron {
+		font-size: 36px;
+	}
+
+	.h3-jumbotron {
+		font-size: 30px;
+		font-weight: 400;
+	}
+
+	.p-jumbotron {
+		font-size: 16px;
+	}
+
+	/* Button */
+	.btn-pilihHosting {
+		font-size: 16px;
+	}
+
+	.btn-selengkapnya {
+		font-size: 16px;
+	}
+
+	.btn-liveChat {
+		font-size: 16px;
+	}
+
+	.right .btn-primary {
+		font-size: 14px;
+	}
+
+	/* Paket Card */
+	.h2-paketCard {
+		font-size: 32px;
+	}
+
+	.p-paketCard {
+		font-size: 26px;
+	}
+
+	/* Fitur Hosting */
+	.fitur-hosting {
+		font-size: 16px;
+	}
+
+	/* Framework Laravel */
+	.p-laravel {
+		font-size: 16px;
+	}
+
+	/* Modul Lengkap */
+	.p-modul {
+		font-size: 16px;
+	}
+
+	/* Support Image */
+	.p-supportImage {
+		font-size: 16px;
+	}
+
+	/* Section Likes */
+	.p-likes {
+		font-size: 16px;
+	}
+
+	/* Section Help */
+	.p-help {
+		font-size: 26px;
+	}
+
+	/* Footer */
+	#footer {
+		font-size: 16px;
+	}
+
+	.footer-lineHeight {
+		line-height: 0.7rem;
+	}
+
+	.footer-bottom {
+		font-size: 12px;
+	}
+}
