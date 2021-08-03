@@ -9,16 +9,19 @@ Project untuk membuat clone landing page Niagahoster.
 
 ### Dependencies
 
-* Bootstrap: v5.0
-* php:v8.0-apache
-* mysql:v8.0
-* phpmyadmin
-* docker-compose: v3.8
+* Bootstrap: v5.0 (https://getbootstrap.com/)
+* php:v8.0-apache (https://hub.docker.com/_/php)
+* mysql:v8.0 (https://hub.docker.com/layers/mysql/library/mysql/8.0)
+* phpmyadmin (https://hub.docker.com/_/phpmyadmin)
+* docker-compose: v3.8 (https://docs.docker.com/compose/compose-file/)
+* fathursyafeei/niagahoster (https://hub.docker.com/repository/docker/fathursyafeei/niagahoster)
 
 ### Installing
 
 * clone repo
-```git clone https://github.com/Fathursyafeei/niagahoster-clone.git```
+```
+git clone https://github.com/Fathursyafeei/niagahoster-clone.git
+```
 
 ### Executing program
 
@@ -34,7 +37,7 @@ docker compose up -d
 
 Contributors names and contact info
 
-ex. fathursyafeei (https://www.instagram.com/fathursyafeei)  
-ex. agresiaagresia816 (https://www.instagram.com/agresiaagresia816)
-ex. dikki.ap (https://www.instagram.com/dikki.ap)
+1. ex. fathursyafeei (https://www.instagram.com/fathursyafeei)
+2. ex. agresiaagresia816 (https://www.instagram.com/agresiaagresia816)
+3. ex. dikki.ap (https://www.instagram.com/dikki.ap)
 
