@@ -30,7 +30,7 @@ git clone https://github.com/Fathursyafeei/niagahoster-clone.git
 ```
 docker compose up -d
 ```
-* Buka browser anda dan buka di 
+* Buka browser dan buka di 
 ``` 
 localhost:8000
 ```
