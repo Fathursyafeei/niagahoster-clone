@@ -37,7 +37,6 @@ docker compose up -d
 
 Contributors names and contact info
 
-1. ex. fathursyafeei (https://www.instagram.com/fathursyafeei)
-2. ex. agresiaagresia816 (https://www.instagram.com/agresiaagresia816)
-3. ex. dikki.ap (https://www.instagram.com/dikki.ap)
+* ex. agresiaagresia816 (https://www.instagram.com/agresiaagresia816)
+* ex. dikki.ap (https://www.instagram.com/dikki.ap)
 
