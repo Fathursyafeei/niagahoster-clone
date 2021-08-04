@@ -22,16 +22,16 @@ Project untuk membuat clone landing page Niagahoster.
 ```
 git clone https://github.com/Fathursyafeei/niagahoster-clone.git
 ```
+* Download docker ke : https://docs.docker.com/get-docker/
 
 ### Executing program
-
-* Download docker ke : https://docs.docker.com/get-docker/
 * Buka cmd lalu masuk ke lokasi repo yang di clone
 * Jalankan perintah dibawah ini
 ```
 docker compose up -d
 ```
-* Buka browser dan buka localhost:8000
+* Buka browser anda dan buka di 
+``` localhost:8000 ```
 
 ## Authors
 
