@@ -1,4 +1,4 @@
-# niagahoster-clone
+# Niagahoster-clone
 
 
 ## Description
@@ -31,7 +31,9 @@ git clone https://github.com/Fathursyafeei/niagahoster-clone.git
 docker compose up -d
 ```
 * Buka browser anda dan buka di 
-``` localhost:8000 ```
+``` 
+localhost:8000
+```
 
 ## Authors
 
