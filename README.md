@@ -39,6 +39,6 @@ localhost:8000
 
 Contributors names and contact info
 
-* ex. agresiaagresia816 (https://www.instagram.com/agresiaagresia816)
+* ex. agresiarthtp (https://www.instagram.com/agresiarthtp/)
 * ex. dikki.ap (https://www.instagram.com/dikki.ap)
 
